@@ -1,3 +1,7 @@
 # IDE fiels
 
 .idea/
+
+# Ignore text files
+
+*.txt
