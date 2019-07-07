@@ -1,6 +1,10 @@
-# IDE fiels
+# IDE fields
 
 .idea/
+
+# npm modules
+
+node_modules/
 
 # Ignore text files
 
