@@ -6,4 +6,4 @@ console.log(getNotes);
 
 console.log(validator.isURL('https://www.foertschemail.com'));
 
-console.log(chalk.green('Success!'));
+console.log(chalk.inverse.red('Error!'));
